@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: HLS Player
-Plugin URI:  https://github.com/KaranJain29/HLS-Player-Wordpress-Plugin
+Plugin URI:  https://github.com/karankankaria/HLS-Player-Wordpress-Plugin
 Description: Embed hls stream to WordPress using JW Player
 Version:     1.1
 Author:      KaranJain
-Author URI:  https://github.com/KaranJain29/
+Author URI:  https://github.com/karankankaria/
 License:     GPL3.0
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: hlsp
