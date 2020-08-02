@@ -23,3 +23,8 @@ Embed HLS Video to WordPress
 
 1. [hls]your-hls/m3u8-video-link[/hls]
 2. [hls] [/hls]
+
+# Credits
+
+1. <a href='https://github.com/karankankaria/'>@karankankaria</a>
+2. <a href='https://github.com/hklcf/'>@hklcf</a>
